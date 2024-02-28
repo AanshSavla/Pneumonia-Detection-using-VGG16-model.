@@ -8,3 +8,7 @@ Link : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia?se
 **About Model VGG16**
 VGG16 has 13 convolutional layers, 5 Max Pooling layers, and 3 Dense layers, which sum up to 21 layers. However, it has only 16 weight layers, which are learnable parameters layers.
 It is trained on a subset of the ImageNet dataset, a collection of over 14 million images.
+
+**Quantum Transfer Learning**
+Read my blog on Pnuemonia Detection using Quantum Transfer Learning
+Link : https://medium.com/@aanshsavla2453/pneumonia-detection-using-quantum-transfer-learning-3cec9c215b6e
